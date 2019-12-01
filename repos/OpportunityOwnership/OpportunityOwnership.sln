@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpportunityOwnership", "OpportunityOwnership\OpportunityOwnership.csproj", "{A992DE62-1DC4-4B82-9AF3-AA922139FC8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A992DE62-1DC4-4B82-9AF3-AA922139FC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A992DE62-1DC4-4B82-9AF3-AA922139FC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A992DE62-1DC4-4B82-9AF3-AA922139FC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A992DE62-1DC4-4B82-9AF3-AA922139FC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE225FF0-45E2-4A47-B329-F7A8CA0BC51C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,44 @@
+﻿declare namespace Form.msdyn_dimensionfieldname.Main {
+    namespace Information {
+        namespace Tabs {
+        }
+        interface Attributes extends XrmBase.AttributeCollectionBase {
+            get(name: "msdyn_description"): XrmBase.StringAttribute;
+            get(name: "msdyn_dimensionid"): XrmBase.LookupAttribute<"msdyn_dimension">;
+            get(name: "msdyn_entitylogicalname"): XrmBase.StringAttribute;
+            get(name: "msdyn_fieldname"): XrmBase.StringAttribute;
+            get(name: string): undefined;
+            get(): XrmBase.Attribute<any>[];
+            get(index: number): XrmBase.Attribute<any>;
+            get(chooser: (item: XrmBase.Attribute<any>, index: number) => boolean): XrmBase.Attribute<any>[];
+        }
+        interface Controls extends XrmBase.ControlCollectionBase {
+            get(name: "msdyn_description"): XrmBase.StringControl;
+            get(name: "msdyn_dimensionid"): XrmBase.LookupControl<"msdyn_dimension">;
+            get(name: "msdyn_entitylogicalname"): XrmBase.StringControl;
+            get(name: "msdyn_fieldname"): XrmBase.StringControl;
+            get(name: string): undefined;
+            get(): XrmBase.BaseControl[];
+            get(index: number): XrmBase.BaseControl;
+            get(chooser: (item: XrmBase.BaseControl, index: number) => boolean): XrmBase.BaseControl[];
+        }
+        interface Tabs extends XrmBase.TabCollectionBase {
+            get(name: string): undefined;
+            get(): XrmBase.PageTab<XrmBase.Collection<XrmBase.PageSection>>[];
+            get(index: number): XrmBase.PageTab<XrmBase.Collection<XrmBase.PageSection>>;
+            get(chooser: (item: XrmBase.PageTab<XrmBase.Collection<XrmBase.PageSection>>, index: number) => boolean): XrmBase.PageTab<XrmBase.Collection<XrmBase.PageSection>>[];
+        }
+    }
+    interface Information extends XrmBase.PageBase<Information.Attributes, Information.Tabs, Information.Controls> {
+        getAttribute(attributeName: "msdyn_dimensionid"): XrmBase.LookupAttribute<"msdyn_dimension">;
+        getAttribute(attributeName: "msdyn_entitylogicalname"): XrmBase.StringAttribute;
+        getAttribute(attributeName: "msdyn_fieldname"): XrmBase.StringAttribute;
+        getAttribute(attributeName: "msdyn_description"): XrmBase.StringAttribute;
+        getAttribute(attributeName: string): undefined;
+        getControl(controlName: "msdyn_dimensionid"): XrmBase.LookupControl<"msdyn_dimension">;
+        getControl(controlName: "msdyn_entitylogicalname"): XrmBase.StringControl;
+        getControl(controlName: "msdyn_fieldname"): XrmBase.StringControl;
+        getControl(controlName: "msdyn_description"): XrmBase.StringControl;
+        getControl(controlName: string): undefined;
+    }
+}

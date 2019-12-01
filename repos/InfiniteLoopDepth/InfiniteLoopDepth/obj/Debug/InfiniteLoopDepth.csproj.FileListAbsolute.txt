@@ -1,0 +1,10 @@
+C:\Users\matth\source\repos\InfiniteLoopDepth\InfiniteLoopDepth\bin\Debug\InfiniteLoopDepth.dll
+C:\Users\matth\source\repos\InfiniteLoopDepth\InfiniteLoopDepth\bin\Debug\InfiniteLoopDepth.pdb
+C:\Users\matth\source\repos\InfiniteLoopDepth\InfiniteLoopDepth\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\matth\source\repos\InfiniteLoopDepth\InfiniteLoopDepth\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\matth\source\repos\InfiniteLoopDepth\InfiniteLoopDepth\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\matth\source\repos\InfiniteLoopDepth\InfiniteLoopDepth\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\matth\source\repos\InfiniteLoopDepth\InfiniteLoopDepth\obj\Debug\InfiniteLoopDepth.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\InfiniteLoopDepth\InfiniteLoopDepth\obj\Debug\InfiniteLoopDepth.csproj.CopyComplete
+C:\Users\matth\source\repos\InfiniteLoopDepth\InfiniteLoopDepth\obj\Debug\InfiniteLoopDepth.dll
+C:\Users\matth\source\repos\InfiniteLoopDepth\InfiniteLoopDepth\obj\Debug\InfiniteLoopDepth.pdb

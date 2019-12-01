@@ -1,0 +1,10 @@
+C:\Users\matth\source\repos\OpportunityAccessTeam\OpportunityAccessTeam\obj\Debug\OpportunityAccessTeam.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\OpportunityAccessTeam\OpportunityAccessTeam\bin\Debug\OpportunityAccessTeam.dll
+C:\Users\matth\source\repos\OpportunityAccessTeam\OpportunityAccessTeam\bin\Debug\OpportunityAccessTeam.pdb
+C:\Users\matth\source\repos\OpportunityAccessTeam\OpportunityAccessTeam\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\matth\source\repos\OpportunityAccessTeam\OpportunityAccessTeam\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\matth\source\repos\OpportunityAccessTeam\OpportunityAccessTeam\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\matth\source\repos\OpportunityAccessTeam\OpportunityAccessTeam\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\matth\source\repos\OpportunityAccessTeam\OpportunityAccessTeam\obj\Debug\OpportunityAccessTeam.csproj.CopyComplete
+C:\Users\matth\source\repos\OpportunityAccessTeam\OpportunityAccessTeam\obj\Debug\OpportunityAccessTeam.dll
+C:\Users\matth\source\repos\OpportunityAccessTeam\OpportunityAccessTeam\obj\Debug\OpportunityAccessTeam.pdb

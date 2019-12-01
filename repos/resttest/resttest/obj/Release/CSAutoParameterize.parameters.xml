@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MyCDSServer-Web.config Connection String" description="MyCDSServer Connection String used in web.config by the application to access the database." defaultValue="AuthType=Office365;Url=https://34smoothstack.crm.dynamics.com;UserName=matthew.albright@34smoothstack.onmicrosoft.com;Password=Smoothcraft1@" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\matth\\source\\repos\\resttest\\resttest\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MyCDSServer']/@connectionString" />
+  </parameter>
+</parameters>

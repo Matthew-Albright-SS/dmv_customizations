@@ -1,0 +1,10 @@
+C:\Users\matth\source\repos\customEntityErrorDump\customEntityErrorDump\bin\Debug\customEntityErrorDump.dll
+C:\Users\matth\source\repos\customEntityErrorDump\customEntityErrorDump\bin\Debug\customEntityErrorDump.pdb
+C:\Users\matth\source\repos\customEntityErrorDump\customEntityErrorDump\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\matth\source\repos\customEntityErrorDump\customEntityErrorDump\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\matth\source\repos\customEntityErrorDump\customEntityErrorDump\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\matth\source\repos\customEntityErrorDump\customEntityErrorDump\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\matth\source\repos\customEntityErrorDump\customEntityErrorDump\obj\Debug\customEntityErrorDump.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\customEntityErrorDump\customEntityErrorDump\obj\Debug\customEntityErrorDump.csproj.CopyComplete
+C:\Users\matth\source\repos\customEntityErrorDump\customEntityErrorDump\obj\Debug\customEntityErrorDump.dll
+C:\Users\matth\source\repos\customEntityErrorDump\customEntityErrorDump\obj\Debug\customEntityErrorDump.pdb

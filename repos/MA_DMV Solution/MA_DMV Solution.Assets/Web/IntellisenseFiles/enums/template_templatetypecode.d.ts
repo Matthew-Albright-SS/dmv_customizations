@@ -1,0 +1,15 @@
+﻿declare const enum template_templatetypecode {
+    Global = 8,
+    Account = 1,
+    Contact = 2,
+    SystemJob = 4700,
+    Lead = 4,
+    CampaignActivity = 4402,
+    Case = 112,
+    Contract = 1010,
+    ServiceActivity = 4214,
+    Opportunity = 3,
+    Quote = 1084,
+    Order = 1088,
+    Invoice = 1090,
+}

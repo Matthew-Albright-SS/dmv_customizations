@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MA_DMV Solution.Assets", "MA_DMV Solution.Assets\MA_DMV Solution.Assets.csproj", "{38344C35-A710-4637-8FCF-B8400D4BEBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38344C35-A710-4637-8FCF-B8400D4BEBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38344C35-A710-4637-8FCF-B8400D4BEBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38344C35-A710-4637-8FCF-B8400D4BEBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38344C35-A710-4637-8FCF-B8400D4BEBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC322FDF-1E24-4AA3-9914-90CEBD583B46}
+	EndGlobalSection
+EndGlobal

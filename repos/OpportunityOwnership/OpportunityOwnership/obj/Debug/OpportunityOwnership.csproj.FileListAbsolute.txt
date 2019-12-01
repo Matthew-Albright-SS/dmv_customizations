@@ -1,0 +1,10 @@
+C:\Users\matth\source\repos\OpportunityOwnership\OpportunityOwnership\bin\Debug\OpportunityOwnership.dll
+C:\Users\matth\source\repos\OpportunityOwnership\OpportunityOwnership\bin\Debug\OpportunityOwnership.pdb
+C:\Users\matth\source\repos\OpportunityOwnership\OpportunityOwnership\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\matth\source\repos\OpportunityOwnership\OpportunityOwnership\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\matth\source\repos\OpportunityOwnership\OpportunityOwnership\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\matth\source\repos\OpportunityOwnership\OpportunityOwnership\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\matth\source\repos\OpportunityOwnership\OpportunityOwnership\obj\Debug\OpportunityOwnership.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\OpportunityOwnership\OpportunityOwnership\obj\Debug\OpportunityOwnership.csproj.CopyComplete
+C:\Users\matth\source\repos\OpportunityOwnership\OpportunityOwnership\obj\Debug\OpportunityOwnership.dll
+C:\Users\matth\source\repos\OpportunityOwnership\OpportunityOwnership\obj\Debug\OpportunityOwnership.pdb
